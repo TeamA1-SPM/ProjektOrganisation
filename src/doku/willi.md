@@ -16,3 +16,5 @@
 | **30.10.2023** |  Aufgabe 2 einarbeitung                |  0,5 Stunde |
 | **30.10.2023** |  Team Meeting: Aufgabe 2 besprechung   |  1,5 Stunde |
 | **31.10.2023** |  Game Tutorial lesen                   |  1,5 Stunde |
+| **01.11.2023** |  Team Meeting: Organisation            |    2 Stunde |
+| **01.11.2023** |  Neues Java Projekt erstellt           |  0,5 Stunde |
