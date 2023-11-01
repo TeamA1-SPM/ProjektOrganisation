@@ -11,3 +11,6 @@
 | **23.10.2023** |         Meeting: Klärung Präsi         | 1,5 Stunden |
 | **25.10.2023** |  Präsentation proben und überarbeiten  | 1,5 Stunden |
 | **25.10.2023** |      Präsentation proben im Team       | 1,5 Stunden |
+| **30.10.2023** |      Aufteilung Aufgaben für Projektplanung       | 1,5 Stunden |
+| **31.10.2023** |      Bearbeitung der Aufgaben für Projektplanung       | 1 Stunden |
+| **01.11.2023** |      Zusammenführung der Informationen zum Projektplanungsdokument       | 1,5 Stunden |
