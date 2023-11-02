@@ -18,3 +18,5 @@
 | **31.10.2023** |  Game Tutorial lesen                   |  1,5 Stunde |
 | **01.11.2023** |  Team Meeting: Organisation            |    2 Stunde |
 | **01.11.2023** |  Neues Java Projekt erstellt           |  0,5 Stunde |
+| **02.11.2023** |  User Stories schreiben                |    1 Stunde |
+| **02.11.2023** |  GameLoop Recherche                    |    2 Stunde |
