@@ -7,6 +7,7 @@
 | **23.10.2023** |         Schnelldurchlauf Präsentation         | 1,5 Stunden  | 
 | **25.10.2023** |           Präsentation-Generalprobe           | 3,75 Stunden |
 | **01.11.2023** |         Team Meeting: Projektentwurf          | 1,5 Stunden  |
+| **08.11.2023** |              Projektvorbereitung              | 0,25 Stunden |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 Protokollant: Tobias Wegner
@@ -81,3 +82,23 @@ Protokollant: Lewin Wanzek
 3. Textausarbeitungen verbessert und durchgesprochen
 
 4. Team Server und Team Socket.io zusammengefasst
+
+
+# Protokoll: Team Meeting 08.11.2023 14:05 Uhr
+Protokollant: Willi Schaefer
+
+* Teilnehmer: Tobias, Lewin, Tim, Timo, Ole, Kevin, Willi
+
+1. Termin Absprache für die Besprechung Abgabe 02
+
+2. Libraries absprechen
+
+3. Socket.io Vertiefung
+
+4. Abstimmung der Spiellogik
+    - Getreue Umsetzung "V1 – straight roads"
+
+6. Verantwortlicher für visuelles Design: Timo
+
+7. Weitere User Stories schreiben
+
