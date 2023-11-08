@@ -1,11 +1,12 @@
 # Dokumentation: Team
 
-|     Datum      |               Tätigkeit                |    Dauer    
-|:--------------:|:--------------------------------------:|:-----------:|
-| **15.10.2023** |      Einteilung Themen/Literatur       |  1 Stunde   | 
-| **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunde | 
-| **23.10.2023** |     Schnelldurchlauf Präsentation      | 1,5 Stunde  | 
-| **25.10.2023** |       Präsentation-Generalprobe        | 3,75 Stunde | 
+|     Datum      |                   Tätigkeit                   |    Dauer     
+|:--------------:|:---------------------------------------------:|:------------:|
+| **15.10.2023** |          Einteilung Themen/Literatur          |   1 Stunde   | 
+| **20.10.2023** |    Zwischenstand und Gedanken zum Vortrag     | 1,25 Stunden | 
+| **23.10.2023** |         Schnelldurchlauf Präsentation         | 1,5 Stunden  | 
+| **25.10.2023** |           Präsentation-Generalprobe           | 3,75 Stunden |
+| **01.11.2023** |         Team Meeting: Projektentwurf          | 1,5 Stunden  |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 Protokollant: Tobias Wegner
@@ -64,3 +65,19 @@ Protokollant: Timo Haverich
 3. Sicherstellung der Technik für den Probelauf der Präsentation
 4. Präsentation jedes Kapitels
 5. Mergen der Präsentationen
+
+
+# Protokoll: Team Meeting 01.11.2023
+Protokollant: Lewin Wanzek
+
+* Teilnehmer: Tobias, Lewin, Tim, Timo, Ole, Kevin, Willi
+
+1. Überblick über alle Aufgabengebiete
+
+2. Probleme und Schwierigkeiten besprochen
+   - Tobi und Lewin holen Informationen zu Socket.io ein 
+   - Erklärung und Anwendungsbeispiele durch Informatiker
+
+3. Textausarbeitungen verbessert und durchgesprochen
+
+4. Team Server und Team Socket.io zusammengefasst
