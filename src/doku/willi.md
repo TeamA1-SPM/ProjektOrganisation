@@ -23,6 +23,6 @@
 | **08.11.2023** |  TM: Projektvorbereitung               | 0,25 Stunde |
 | **08.11.2023** |  JavaScript wiederholen                |    1 Stunde |
 | **08.11.2023** |  "V1-streight roads" Code verstehen    |    2 Stunde |
-| **08.11.2023** |  User Stories schreiben                |    3 Stunde |
+| **08.11.2023** |  GameLoop Java Implementierung         |    3 Stunde |
 | **09.11.2023** |  Hintergrund darstellen                |  1,5 Stunde |
 | **09.11.2023** |  Strasse darstellen                    |    4 Stunde |
