@@ -1,13 +1,14 @@
 # Dokumentation: Team
 
-|     Datum      |                   Tätigkeit                   |    Dauer     
-|:--------------:|:---------------------------------------------:|:------------:|
-| **15.10.2023** |          Einteilung Themen/Literatur          |   1 Stunde   | 
-| **20.10.2023** |    Zwischenstand und Gedanken zum Vortrag     | 1,25 Stunden | 
-| **23.10.2023** |         Schnelldurchlauf Präsentation         | 1,5 Stunden  | 
-| **25.10.2023** |           Präsentation-Generalprobe           | 3,75 Stunden |
-| **01.11.2023** |         Team Meeting: Projektentwurf          | 1,5 Stunden  |
-| **08.11.2023** |              Projektvorbereitung              | 0,25 Stunden |
+|     Datum      |               Tätigkeit                |    Dauer    
+|:--------------:|:--------------------------------------:|:-----------:|
+| **15.10.2023** |      Einteilung Themen/Literatur       |   1 Stunde  | 
+| **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunden | 
+| **23.10.2023** |     Schnelldurchlauf Präsentation      | 1,5 Stunden | 
+| **25.10.2023** |       Präsentation-Generalprobe        | 3,75 Stunden |
+| **01.11.2023** |      Team Meeting: Projektentwurf      | 1,5 Stunden |
+| **08.11.2023** |          Projektvorbereitung           | 0,25 Stunden |
+| **11.11.2023** |      Nachbesprechung und Planung       |  1 Stunde   |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 Protokollant: Tobias Wegner
@@ -102,3 +103,23 @@ Protokollant: Willi Schaefer
 
 7. Weitere User Stories schreiben
 
+
+# Protokoll: Team Meeting 11.11.2023 12:00 Uhr
+Protokollant: Tobias Wegner
+
+* Teilnehmer: Lewin, Timo, Ole, Kevin, Willi, Tobias
+
+- Nachbesprechung der Stunde vom Vortag 
+- kurzes Update zum Kenntnisstand bezüglich des Servers
+- offene Fragen formulieren und notieren
+- Was muss als nächstes getan werden:
+   - Kanban Board
+   - Server Client Test verbindung
+   - Grundlegendes Spiel mit Geraden strecken
+   - user storys im github hinterlegen
+   - Issues erstellen
+- überblick aktueller Stand vom Java Client
+- gemeinsame Besprechung des JavaScript-Codes vom Racing Game
+- Festlegung der Wochenplanung (optimistisch): bis zum 18.11.2023
+   - Server: verbindungsaufbau
+   - client: simple GUI mit gerade Strecke
