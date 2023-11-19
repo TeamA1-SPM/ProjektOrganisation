@@ -9,7 +9,7 @@
 | **23.10.2023** |         Meine Änderungen ins gemeinsame Git Repo pushen          | 0,5 Stunden  |
 | **23.10.2023** |                  Schnelldurchlauf Präsentation                   | 1,5 Stunden  |
 | **24.10.2023** |             Anpassung von meinen Präsentationsfolien             | 2,5 Stunden  | 
-| **25.10.2023** |                    Präsentation-Generalprobe                     | 3,75 Stunde  |
+| **25.10.2023** |                    Präsentation-Generalprobe                     | 3,75 Stunden |
 | **30.10.2023** |                      Einlesen in Aufgabe 2                       | 0,5 Stunden  |
 | **30.10.2023** |              Aufgabenverteilung für Projektplanung               | 1,5 Stunden  |
 | **31.10.2023** |           (Oberflächliche) Code-Analyse vom Rennspiel            | 3,0 Stunden  |
@@ -20,3 +20,5 @@
 | **14.11.2023** |      Kanban-Board Aufgaben erzeugt und Java-Code erweitert       | 1,0 Stunden  |
 | **16.11.2023** |                Aufgabenverteilung für MVP in Java                | 0,5 Stunden  |
 | **18.11.2023** |              Spieler (Auto) Implementierung in Java              | 1,0 Stunden  |
+| **19.11.2023** |                Hauptmenü Implementierung in Java                 | 2,5 Stunden  |
+| **19.11.2023** |         Besprechung aktueller Stand / Weiteres Vorgehen          | 1,5 Stunden  |
