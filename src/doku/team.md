@@ -2,10 +2,13 @@
 
 |     Datum      |               Tätigkeit                |    Dauer    
 |:--------------:|:--------------------------------------:|:-----------:|
-| **15.10.2023** |      Einteilung Themen/Literatur       |  1 Stunde   | 
-| **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunde | 
-| **23.10.2023** |     Schnelldurchlauf Präsentation      | 1,5 Stunde  | 
-| **25.10.2023** |       Präsentation-Generalprobe        | 3,75 Stunde | 
+| **15.10.2023** |      Einteilung Themen/Literatur       |   1 Stunde  | 
+| **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunden | 
+| **23.10.2023** |     Schnelldurchlauf Präsentation      | 1,5 Stunden | 
+| **25.10.2023** |       Präsentation-Generalprobe        | 3,75 Stunden |
+| **01.11.2023** |      Team Meeting: Projektentwurf      | 1,5 Stunden |
+| **08.11.2023** |          Projektvorbereitung           | 0,25 Stunden |
+| **11.11.2023** |      Nachbesprechung und Planung       |  1 Stunde   |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 Protokollant: Tobias Wegner
@@ -64,3 +67,59 @@ Protokollant: Timo Haverich
 3. Sicherstellung der Technik für den Probelauf der Präsentation
 4. Präsentation jedes Kapitels
 5. Mergen der Präsentationen
+
+
+# Protokoll: Team Meeting 01.11.2023
+Protokollant: Lewin Wanzek
+
+* Teilnehmer: Tobias, Lewin, Tim, Timo, Ole, Kevin, Willi
+
+1. Überblick über alle Aufgabengebiete
+
+2. Probleme und Schwierigkeiten besprochen
+   - Tobi und Lewin holen Informationen zu Socket.io ein 
+   - Erklärung und Anwendungsbeispiele durch Informatiker
+
+3. Textausarbeitungen verbessert und durchgesprochen
+
+4. Team Server und Team Socket.io zusammengefasst
+
+
+# Protokoll: Team Meeting 08.11.2023 14:05 Uhr
+Protokollant: Willi Schaefer
+
+* Teilnehmer: Tobias, Lewin, Tim, Timo, Ole, Kevin, Willi
+
+1. Termin Absprache für die Besprechung Abgabe 02
+
+2. Libraries absprechen
+
+3. Socket.io Vertiefung
+
+4. Abstimmung der Spiellogik
+    - Getreue Umsetzung "V1 – straight roads"
+
+6. Verantwortlicher für visuelles Design: Timo
+
+7. Weitere User Stories schreiben
+
+
+# Protokoll: Team Meeting 11.11.2023 12:00 Uhr
+Protokollant: Tobias Wegner
+
+* Teilnehmer: Lewin, Timo, Ole, Kevin, Willi, Tobias
+
+- Nachbesprechung der Stunde vom Vortag 
+- kurzes Update zum Kenntnisstand bezüglich des Servers
+- offene Fragen formulieren und notieren
+- Was muss als nächstes getan werden:
+   - Kanban Board
+   - Server Client Test verbindung
+   - Grundlegendes Spiel mit Geraden strecken
+   - user storys im github hinterlegen
+   - Issues erstellen
+- überblick aktueller Stand vom Java Client
+- gemeinsame Besprechung des JavaScript-Codes vom Racing Game
+- Festlegung der Wochenplanung (optimistisch): bis zum 18.11.2023
+   - Server: verbindungsaufbau
+   - client: simple GUI mit gerade Strecke
