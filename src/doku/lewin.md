@@ -11,3 +11,9 @@
 | **30.10.2023** |           Recherche Server Client           | 3,5 Stunden  |
 | **01.11.2023** |             Recherche Socket.io             |  3 Stunden   |
 | **01.11.2023** |        Team Meeting: Projektentwurf         | 1,5 Stunden  |
+| **10.11.2023** |        Serverstruktur Brainstorming         | 1,5 Stunden  |
+| **11.11.2023** |  Team Meeting: Nachbesprechung und Planung  |   1 Stunde   |
+| **11.11.2023** | Erster Versuch Server Client Kommunikation  | 2,5 Stunden  |
+| **13.11.2023** |     Server Python Client Kommunikation      |  0,5 Stunde  |
+| **17.11.2023** |      Server Java Client Kommunikation       |  2 Stunden   |
+| **19.11.2023** |         Team Meeting: Zwischenstand         | 1,5 Stunden  |
