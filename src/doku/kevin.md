@@ -22,3 +22,7 @@
 | **18.11.2023** |              Spieler (Auto) Implementierung in Java              | 1,0 Stunden  |
 | **19.11.2023** |                Hauptmenü Implementierung in Java                 | 2,5 Stunden  |
 | **19.11.2023** |         Besprechung aktueller Stand / Weiteres Vorgehen          | 1,5 Stunden  |
+| **21.11.2023** |         Informationsaustausch über Java Implementierung          | 1,0 Stunden  |
+| **22.11.2023** |      Festlegung eines Design-Standard / Absprache über MVP       | 1,5 Stunden  |
+| **24.11.2023** |               Besprechung aktueller Stand in Java                | 0,75 Stunden |
+| **24.11.2023** |          Fahrendes Auto in Gerade Straße implementiert           | 4,0 Stunden  |
