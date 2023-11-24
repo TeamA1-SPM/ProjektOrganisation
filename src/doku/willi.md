@@ -26,3 +26,16 @@
 | **08.11.2023** |  GameLoop Java Implementierung         |    3 Stunde |
 | **09.11.2023** |  Hintergrund darstellen                |  1,5 Stunde |
 | **09.11.2023** |  Strasse darstellen                    |    4 Stunde |
+| **15.11.2023** |  User Stories übertragen               |    1 Stunde |
+| **15.11.2023** |  Issues erstellen                      |    1 Stunde |
+| **19.11.2023** |  Meeting: Zwischenstand                |  1,5 Stunde |
+| **21.11.2023** |  MiniMeeting: Java CLient              |    1 Stunde |
+| **22.11.2023** |  Straße rendern                        |    2 Stunde |
+| **22.11.2023** |  Meeting: Menu Mockups                 |    2 Stunde |
+| **23.11.2023** |  Meeting: Zwischenstand                |  0,5 Stunde |
+| **23.11.2023** |  MiniMeeting: Zwischenstand            |  0,5 Stunde |
+| **23.11.2023** |  Meeting: Zwischenstand                |  0,5 Stunde |
+| **23.11.2023** |  Flicker entfernen (DoubleBuffer)      |    1 Stunde |
+| **23.11.2023** |  Lanes hinzufügen                      |  0,5 Stunde |
+| **23.11.2023** |  Refactoring                           |    1 Stunde |
+| **23.11.2023** |  Background Darstellung Korrektur      |    1 Stunde |
