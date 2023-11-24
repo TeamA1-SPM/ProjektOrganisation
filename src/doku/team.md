@@ -10,6 +10,7 @@
 | **08.11.2023** |          Projektvorbereitung           | 0,25 Stunden |
 | **11.11.2023** |      Nachbesprechung und Planung       |   1 Stunde   |
 | **19.11.2023** |    Besprechung des Zwischenstandes     | 1,5 Stunden  |
+| **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -150,5 +151,19 @@ Protokollant(en): Tobias, Lewin
     * Beide Autos darstellen oder Vergleich der Zeiten?
     * Sollen Hindernisse an Ort oder Zeit gebunden sein?
     * Performance Issues durch unterschiedliche Programmiersprachen?
-    * Eigenständig definierte Anforderungen an das Spiel? Falls nein, was sind die vorgegebenen Anforderungen? Wo sind diese nachzulesen?
+    * Eigenständig definierte Anforderungen an das Spiel? Falls nein, was sind die vorgegebenen Anforderungen? Wo sind
+      diese nachzulesen?
 9. Weiteres Vorgehen
+
+# Protokoll: Team Meeting 22.11.2023 14:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Timo, Kevin, Willi, Tobias, Tim, Ole, Lewin
+
+1. Festlegung von Implementierungsdetails (zusätzlich festgehalten in separater Zeichnung)
+    * Homescreen (Hintergrund, Button, Button-Funktionen, Navigierung im Homescreen,...)
+    * Find-Lobby (Prüfung auf doppelte Namen, WaitingScreen, Serverabfragen)
+    * Countdown-Overlay (Countdown runterzählen, Steuerung anzeigen, zu fahrende Runden anzeigen, Namen der Spieler anzeigen)
+    * Game-Screen (Welche Infos sollen wo angezeigt werden, ESC Exit-Menu, End-Screen)
+2. Neue Issues aus der Zeichnung ableiten
