@@ -27,3 +27,5 @@
 | **24.11.2023** |               Besprechung aktueller Stand in Java                | 0,75 Stunden |
 | **24.11.2023** |          Fahrendes Auto in Gerade Straße implementiert           | 4,0 Stunden  |
 | **25.11.2023** |                Game Overlay in Java implementiert                | 4,0 Stunden  |
+| **26.11.2023** |     Informationsaustausch über Client / Server Kommunikation     | 1,0 Stunden  |
+| **28.11.2023** |     Zeit / MPH / Rundenanzahl im Game Overlay implementiert      | 3,5 Stunden  |
