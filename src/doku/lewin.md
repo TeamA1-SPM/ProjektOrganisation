@@ -17,3 +17,6 @@
 | **13.11.2023** |     Server Python Client Kommunikation      |  0,5 Stunde  |
 | **17.11.2023** |      Server Java Client Kommunikation       |  2 Stunden   |
 | **19.11.2023** |         Team Meeting: Zwischenstand         | 1,5 Stunden  |
+| **22.11.2023** |    Team Meeting: Implementierungsdetails    | 1,5 Stunden  |
+| **26.11.2023** |          Analyse Datenübertragung           |   1 Stunde   |
+| **27.11.2023** |        Implementierung Server Logik         | 4,5 Stunden  |
