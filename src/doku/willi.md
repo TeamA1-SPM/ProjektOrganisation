@@ -39,3 +39,9 @@
 | **23.11.2023** |  Lanes hinzufügen                      |  0,5 Stunde |
 | **23.11.2023** |  Refactoring                           |    1 Stunde |
 | **23.11.2023** |  Background Darstellung Korrektur      |    1 Stunde |
+| **24.11.2023** |  GIT repo merges und pflege            |  0,5 Stunde |
+| **24.11.2023** |  Runden Zeit hinzufügen 2 Stunden      |    2 Stunde |
+| **24.11.2023** |  Bug Fix                               |    3 Stunde |
+| **26.11.2023** |  MiniMeeting: Server implementierung   | 0,75 Stunde |
+| **26.11.2023** |  Branches mergen                       |  0,5 Stunde |
+| **26.11.2023** |  Refactoring                           |    1 Stunde |
