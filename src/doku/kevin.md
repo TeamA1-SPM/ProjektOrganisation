@@ -19,8 +19,8 @@
 | **14.11.2023** |       Beschäftigung mit dem Source-Code für Straight Road        | 1,5 Stunden  |
 | **14.11.2023** |      Kanban-Board Aufgaben erzeugt und Java-Code erweitert       | 1,0 Stunden  |
 | **16.11.2023** |                Aufgabenverteilung für MVP in Java                | 0,5 Stunden  |
-| **18.11.2023** |              Spieler (Auto) Implementierung in Java              | 1,0 Stunden  |
-| **19.11.2023** |                Hauptmenü Implementierung in Java                 | 2,5 Stunden  |
+| **18.11.2023** |      Recherche über Spieler (Auto) Implementierung in Java       | 1,0 Stunden  |
+| **19.11.2023** |         Recherche über Hauptmenü Implementierung in Java         | 2,5 Stunden  |
 | **19.11.2023** |         Besprechung aktueller Stand / Weiteres Vorgehen          | 1,5 Stunden  |
 | **21.11.2023** |         Informationsaustausch über Java Implementierung          | 1,0 Stunden  |
 | **22.11.2023** |      Festlegung eines Design-Standard / Absprache über MVP       | 1,5 Stunden  |
@@ -29,3 +29,7 @@
 | **25.11.2023** |                Game Overlay in Java implementiert                | 4,0 Stunden  |
 | **26.11.2023** |     Informationsaustausch über Client / Server Kommunikation     | 1,0 Stunden  |
 | **28.11.2023** |     Zeit / MPH / Rundenanzahl im Game Overlay implementiert      | 3,5 Stunden  |
+| **29.11.2023** |   Besprechung und Umsetzung für Server / Client Kommunikation    | 3,0 Stunden  |
+| **30.11.2023** | Besprechung der Problematiken von Server / Client Kommunikation  | 3,5 Stunden  |
+| **01.12.2023** |      Erster Ansatz für das Hauptmenü in Java implementiert       | 2,0 Stunden  |
+| **04.12.2023** |      Fertigstellung des Startfensters vom Hauptmenü in Java      | 4,5 Stunden  |
