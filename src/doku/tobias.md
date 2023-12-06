@@ -19,3 +19,7 @@
 | **13.11.2023** |          Server Python Client Kommunikation          | 0,5 h  |
 | **17.11.2023** |           Server Java Client Kommunikation           |  2 h   |
 | **19.11.2023** |             Team Meeting: Zwischenstand              | 1,5 h  |
+| **22.11.2023** |        Team Meeting: Implementierungsdetails         | 1,5 h  |
+| **27.11.2023** |             Implementierung Server Logik             | 4,5 h  |
+| **29.11.2023** |   Team Meeting: Java & Server SocketIO verbindung    |  4 h   |
+| **30.11.2023** |  Team Meeting: Python & Server SocketIO verbindung   |  4 h   |
