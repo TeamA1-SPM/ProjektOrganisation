@@ -83,3 +83,9 @@
 | **06.12.2023** |  Sprites darstellen                    |    1 Stunde |
 | **06.12.2023** |  Player uphill Sprites                 |    1 Stunde |
 | **06.12.2023** |  Kanban pflegen                        |  0,5 Stunde |
+| **06.12.2023** |  Meeting: Zwischenstand                |    1 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **06.12.2023** |  Refactoring                           |    2 Stunde |
+| **06.12.2023** |  Performanz steigern                   |    4 Stunde |
+
+
