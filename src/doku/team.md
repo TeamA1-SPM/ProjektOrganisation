@@ -167,3 +167,24 @@ Protokollant(en): Tobias, Lewin
     * Countdown-Overlay (Countdown runterzählen, Steuerung anzeigen, zu fahrende Runden anzeigen, Namen der Spieler anzeigen)
     * Game-Screen (Welche Infos sollen wo angezeigt werden, ESC Exit-Menu, End-Screen)
 2. Neue Issues aus der Zeichnung ableiten
+
+# Protokoll: Team Meeting 29.11.2023 15:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Timo, Lewin, Kevin, Willi, Tobias
+
+1. Testen der Server - Java-Client verbindung
+   * senden von den besten Rundenzeiten zwischen Clients über den Server
+   * debugging
+
+# Protokoll: Team Meeting 30.11.2023 12:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Ole, Tim, Timo, Lewin, Tobias
+
+1. Testen der Server - Python-Client verbindung
+    * senden von den besten Rundenzeiten zwischen Clients über den Server
+    * debugging
+   
