@@ -1,6 +1,6 @@
 # Dokumentation: Team
 
-|     Datum      |               Tätigkeit                |    Dauer     
+|     Datum      |               Tätigkeit                |    Dauer     |
 |:--------------:|:--------------------------------------:|:------------:|
 | **15.10.2023** |      Einteilung Themen/Literatur       |   1 Stunde   | 
 | **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunden | 
@@ -11,6 +11,8 @@
 | **11.11.2023** |      Nachbesprechung und Planung       |   1 Stunde   |
 | **19.11.2023** |    Besprechung des Zwischenstandes     | 1,5 Stunden  |
 | **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
+| **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
+| **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
