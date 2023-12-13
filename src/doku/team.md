@@ -13,6 +13,7 @@
 | **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
 | **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
 | **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
+| **13.12.2023** |   Road Creator Test und Zwischenstand  | 1,5 Stunden  |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -189,4 +190,20 @@ Protokollant(en): Tobias, Lewin
 1. Testen der Server - Python-Client verbindung
     * senden von den besten Rundenzeiten zwischen Clients über den Server
     * debugging
+  
+# Protokoll: Team Meeting 30.11.2023 12:00 Uhr
+
+Protokollant(en): Willi Schäfer
+
+* Teilnehmer: Ole, Lewin, Willi 
+
+1. Testen JSON Road Creator
+    * Anpassung der Ausgabedatei
+    * Debug falsche Werte
+    * Testen Kombination von Strassenelementen
+2. Arbeitsplanung
+    * Client Implementierung NPC Autos
+    * Server Client Schnittstelle Spielerautos
+    
+
    
