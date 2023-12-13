@@ -13,6 +13,9 @@
 | **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
 | **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
 | **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
+| **06.12.2023** |   Festlegung weiterer Vorgehensweise   |   1 Stunde   |
+| **09.12.2023** |    Standards der Datenübermittlung     |   1 Stunde   |
+| **13.12.2023** |     Debugging Streckengenerierung      | 1,5 Stunden  |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -177,8 +180,9 @@ Protokollant(en): Tobias, Lewin
 * Teilnehmer: Timo, Lewin, Kevin, Willi, Tobias
 
 1. Testen der Server - Java-Client verbindung
-   * senden von den besten Rundenzeiten zwischen Clients über den Server
-   * debugging
+   * Senden von den besten Rundenzeiten zwischen Clients über den Server
+   * Debugging ⇒ Zeiten wurden an der falschen Stelle angezeigt, gar nicht angezeigt oder es wurden falsche Werte
+     angezeigt (fehlerhafte if-Bedingung serverseitig)
 
 # Protokoll: Team Meeting 30.11.2023 12:00 Uhr
 
@@ -187,6 +191,43 @@ Protokollant(en): Tobias, Lewin
 * Teilnehmer: Ole, Tim, Timo, Lewin, Tobias
 
 1. Testen der Server - Python-Client verbindung
-    * senden von den besten Rundenzeiten zwischen Clients über den Server
-    * debugging
-   
+    * Senden von den besten Rundenzeiten zwischen Clients über den Server
+    * Debugging ⇒ Zeiten wurden an der falschen Stelle angezeigt, gar nicht angezeigt oder es wurden falsche Werte 
+    angezeigt (fehlerhafte if-Bedingung serverseitig)
+
+# Protokoll: Team Meeting 06.12.2023 15:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Timo, Lewin, Willi
+
+1. Besprechung der weiteren Vorgehensweise nach dem MVP
+   * Welche weiteren Funktionen werden benötigt?
+     * Countdown-Funktion, welche vom Server aufgerufen wird, wenn die Strecke beider Spieler geladen wurde ⇒ ermöglicht
+     gleichzeitigen Start
+     * Positionsübergabe-Funktion, wird in den Update-Methoden der Clients aufgerufen, um die Koordinaten zur Darstellung
+     auf dem gegnerischen Bildschirm zu übergeben
+   * Ermittlung welche 
+
+# Protokoll: Team Meeting 09.12.2023 15:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Timo, Lewin, Willi, (Tobi)
+
+1. Festlegung des Datenübertragungsstandards für fertig generierte Strecken (JSON)
+   * Strecken werden fertig generiert
+   * Erstellung von 10 Template Strecken, die beide Clients lokal speichern sollen
+   * Server entscheidet durch Übergabe einer Zufallszahl, welche Template-Strecke vom Client geladen werden soll
+
+# Protokoll: Team Meeting 13.12.2023 15:00 Uhr
+
+Protokollant(en): Tobias, Lewin
+
+* Teilnehmer: Lewin, Tobias, Willi
+
+1. Debugging Streckengenerierung
+   * Sprites wurden bei der Streckengenerierung in der JSON nicht richtig gesetzt
+   * Beenden der Strecke mit "downHillToEnd", um eine flüssige Aneinanderreihung der Segmente zu gewährleisten
+2. Aktualisierung der weiteren Vorgehensweise vom 06.12.23 und Priorisierung festgelegter Aufgaben
+    * Priorisierung der Methoden zur Darstellung des Gegners auf dem eigenen Bildschirm
