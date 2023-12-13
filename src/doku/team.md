@@ -13,9 +13,13 @@
 | **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
 | **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
 | **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
+<<<<<<< HEAD
 | **06.12.2023** |   Festlegung weiterer Vorgehensweise   |   1 Stunde   |
 | **09.12.2023** |    Standards der Datenübermittlung     |   1 Stunde   |
 | **13.12.2023** |     Debugging Streckengenerierung      | 1,5 Stunden  |
+=======
+| **13.12.2023** |   Road Creator Test und Zwischenstand  | 1,5 Stunden  |
+>>>>>>> 8d99b471794059e5a2f209ce8df8b50b0fa045a8
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -200,7 +204,6 @@ Protokollant(en): Tobias, Lewin
 Protokollant(en): Tobias, Lewin
 
 * Teilnehmer: Timo, Lewin, Willi
-
 1. Besprechung der weiteren Vorgehensweise nach dem MVP
    * Welche weiteren Funktionen werden benötigt?
      * Countdown-Funktion, welche vom Server aufgerufen wird, wenn die Strecke beider Spieler geladen wurde ⇒ ermöglicht
@@ -220,14 +223,19 @@ Protokollant(en): Tobias, Lewin
    * Erstellung von 10 Template Strecken, die beide Clients lokal speichern sollen
    * Server entscheidet durch Übergabe einer Zufallszahl, welche Template-Strecke vom Client geladen werden soll
 
-# Protokoll: Team Meeting 13.12.2023 15:00 Uhr
+# Protokoll: Team Meeting 13.12.2023 14:00 Uhr
 
-Protokollant(en): Tobias, Lewin
+Protokollant(en): Tobias, Lewin, Willi Schäfer
 
 * Teilnehmer: Lewin, Tobias, Willi
 
-1. Debugging Streckengenerierung
-   * Sprites wurden bei der Streckengenerierung in der JSON nicht richtig gesetzt
-   * Beenden der Strecke mit "downHillToEnd", um eine flüssige Aneinanderreihung der Segmente zu gewährleisten
+1. Debugging Streckengenerierung und Testen des JSON Road Creator
+   * Debug falsche Werte ⇒ Sprites wurden bei der Streckengenerierung in der JSON nicht richtig gesetzt
+   * Testen Kombination von Strassenelementen ⇒ Beenden der Strecke mit "downHillToEnd", um eine flüssige Aneinanderreihung der Segmente zu gewährleisten
+   * Anpassung der Ausgabedatei
 2. Aktualisierung der weiteren Vorgehensweise vom 06.12.23 und Priorisierung festgelegter Aufgaben
     * Priorisierung der Methoden zur Darstellung des Gegners auf dem eigenen Bildschirm
+    * Client Implementierung NPC Autos
+
+
+
