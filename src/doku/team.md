@@ -13,13 +13,11 @@
 | **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
 | **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
 | **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
-<<<<<<< HEAD
 | **06.12.2023** |   Festlegung weiterer Vorgehensweise   |   1 Stunde   |
 | **09.12.2023** |    Standards der Datenübermittlung     |   1 Stunde   |
 | **13.12.2023** |     Debugging Streckengenerierung      | 1,5 Stunden  |
-=======
 | **13.12.2023** |   Road Creator Test und Zwischenstand  | 1,5 Stunden  |
->>>>>>> 8d99b471794059e5a2f209ce8df8b50b0fa045a8
+
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
