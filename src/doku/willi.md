@@ -85,7 +85,30 @@
 | **06.12.2023** |  Kanban pflegen                        |  0,5 Stunde |
 | **06.12.2023** |  Meeting: Zwischenstand                |    1 Stunde |
 | -------------- | -------------------------------------- | ----------- |
-| **06.12.2023** |  Refactoring                           |    2 Stunde |
-| **06.12.2023** |  Performanz steigern                   |    4 Stunde |
+| **07.12.2023** |  Refactoring                           |    2 Stunde |
+| **07.12.2023** |  Performanz steigern                   |    4 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **08.12.2023** |  Meeting: MVP + Aktueller Stand        |  1,5 Stunde |
+| **08.12.2023** |  Team Meeting: Server Client Com       |  0,5 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **12.12.2023** |  Collision Road Side                   |  2,5 Stunde |
+| **12.12.2023** |  Debug Road Creator                    |  0,5 Stunde |
+| **12.12.2023** |  JSON Road Parser                      |    2 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **13.12.2023** |  Draw car sprites                      |  1,5 Stunde |
+| **13.12.2023** |  car movement                          |    1 Stunde |
+| **13.12.2023** |  Debug remove jitter                   |    3 Stunde |
+| **13.12.2023** |  npc car behaviour  V1                 |    2 Stunde |
+| **13.12.2023** |  Meeting: Zwischenstand/Roadcreator    |  1,5 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **14.12.2023** |  Parallax Effekt final                 |    3 Stunde |
+| **14.12.2023** |  Race Countdown                        |    3 Stunde |
+| **14.12.2023** |  Refactoring: Modes/States             |    3 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **15.12.2023** |  Mario mode                            |    2 Stunde |
+| **15.12.2023** |  mode function tests                   |    1 Stunde |
+| -------------- | -------------------------------------- | ----------- |
+| **19.12.2023** |  Bugfix traffic jams                   |    2 Stunde |
+| **19.12.2023** |  KANBAN pflegen                        |  0,5 Stunde |
 
 
