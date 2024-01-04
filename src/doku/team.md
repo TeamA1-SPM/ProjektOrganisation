@@ -1,23 +1,24 @@
 # Dokumentation: Team
 
-|     Datum      |               Tätigkeit                |    Dauer     |
-|:--------------:|:--------------------------------------:|:------------:|
-| **15.10.2023** |      Einteilung Themen/Literatur       |   1 Stunde   | 
-| **20.10.2023** | Zwischenstand und Gedanken zum Vortrag | 1,25 Stunden | 
-| **23.10.2023** |     Schnelldurchlauf Präsentation      | 1,5 Stunden  | 
-| **25.10.2023** |       Präsentation-Generalprobe        | 3,75 Stunden |
-| **01.11.2023** |      Team Meeting: Projektentwurf      | 1,5 Stunden  |
-| **08.11.2023** |          Projektvorbereitung           | 0,25 Stunden |
-| **11.11.2023** |      Nachbesprechung und Planung       |   1 Stunde   |
-| **19.11.2023** |    Besprechung des Zwischenstandes     | 1,5 Stunden  |
-| **22.11.2023** | Festlegung von Implementierungsdetails |  2 Stunden   |
-| **29.11.2023** |    Java-Client - Server verbindung     |  4 Stunden   |
-| **30.11.2023** |   Python-Client - Server verbindung    |  4 Stunden   |
-| **06.12.2023** |   Festlegung weiterer Vorgehensweise   |   1 Stunde   |
-| **09.12.2023** |    Standards der Datenübermittlung     |   1 Stunde   |
-| **13.12.2023** |     Debugging Streckengenerierung      | 1,5 Stunden  |
-| **13.12.2023** |   Road Creator Test und Zwischenstand  | 1,5 Stunden  |
-
+|     Datum      |                            Tätigkeit                            |    Dauer     |
+|:--------------:|:---------------------------------------------------------------:|:------------:|
+| **15.10.2023** |                   Einteilung Themen/Literatur                   |   1 Stunde   | 
+| **20.10.2023** |             Zwischenstand und Gedanken zum Vortrag              | 1,25 Stunden | 
+| **23.10.2023** |                  Schnelldurchlauf Präsentation                  | 1,5 Stunden  | 
+| **25.10.2023** |                    Präsentation-Generalprobe                    | 3,75 Stunden |
+| **01.11.2023** |                  Team Meeting: Projektentwurf                   | 1,5 Stunden  |
+| **08.11.2023** |                       Projektvorbereitung                       | 0,25 Stunden |
+| **11.11.2023** |                   Nachbesprechung und Planung                   |   1 Stunde   |
+| **19.11.2023** |                 Besprechung des Zwischenstandes                 | 1,5 Stunden  |
+| **22.11.2023** |             Festlegung von Implementierungsdetails              |  2 Stunden   |
+| **29.11.2023** |                 Java-Client - Server verbindung                 |  4 Stunden   |
+| **30.11.2023** |                Python-Client - Server verbindung                |  4 Stunden   |
+| **06.12.2023** |               Festlegung weiterer Vorgehensweise                |   1 Stunde   |
+| **09.12.2023** |                 Standards der Datenübermittlung                 |   1 Stunde   |
+| **13.12.2023** |                  Debugging Streckengenerierung                  | 1,5 Stunden  |
+| **13.12.2023** |               Road Creator Test und Zwischenstand               | 1,5 Stunden  |
+| **22.12.2023** | Team Meeting: Server Connection fix und kleinere Verbesserungen |    3,5 h     |
+| **04.01.2024** |                  Team Meeting: Lobby Features                   |     2 h      |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -235,5 +236,26 @@ Protokollant(en): Tobias, Lewin, Willi Schäfer
     * Priorisierung der Methoden zur Darstellung des Gegners auf dem eigenen Bildschirm
     * Client Implementierung NPC Autos
 
+# Protokoll: Team Meeting 22.12.2023 9:00 Uhr
 
+Protokollanten: Lewin, Tobias
+
+* Teilnehmer: Willi, Kevin, Lewin, Timo, Tobias
+
+1. Server Connection und Uptime fix
+2. fix choose_track und game_rendered vom Server
+3. weiteres Vorgehen besprechen
+
+
+# Protokoll: Team Meeting 04.01.2024 12:00 Uhr
+
+Protokollanten: Lewin, Tobias
+
+* Teilnehmer: Willi, Timo, Lewin, Tobias
+
+1. Lobby Features 
+   * Race Track in Lobby speichern
+   * Highscore Array erstellen
+   * Funktion für Unique LobbyIDs erstellen
+   * kleinere bugfixes
 
