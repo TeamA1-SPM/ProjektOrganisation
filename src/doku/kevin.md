@@ -52,3 +52,7 @@
 | **27.12.2023** |                 Weiteres Refactoring der MainMenu Klasse                 | 3,0 Stunden  |
 | **27.12.2023** |            Implementation von Server Online / Offline Status             | 1,0 Stunden  |
 | **27.12.2023** |         Implementation einer Spielsteuerung Anzeige im MainMenu          | 2,0 Stunden  |
+| **28.12.2023** |                 Implementation einer Match History (WIP)                 | 3,0 Stunden  |
+| **28.12.2023** |                           Weiteres Refactoring                           | 3,5 Stunden  |
+| **30.12.2023** |            Darstellung der Spielernamen beim Spiel Countdown             | 2,0 Stunden  |
+| **03.01.2024** |                Besprechung aktueller Stand im Java Client                | 1,0 Stunden  |
