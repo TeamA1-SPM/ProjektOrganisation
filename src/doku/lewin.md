@@ -36,3 +36,5 @@
 | **03.01.2024** |                              display_player fix                               |    1,5 h     |
 | **04.01.2024** |                             Server Lobby Features                             |     4 h      |
 | **04.01.2024** |                         Team Meeting: Lobby Features                          |     2 h      |
+| **05.01.2024** |                Refactoring Code, Editing JSON for last Feature                |    0,5 h     |
+| **05.01.2024** |           Team Meeting: Aufgabenverteilung für die kommende Abgabe            |     1 h      |

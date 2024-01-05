@@ -29,3 +29,5 @@
 | **22.12.2023** |        Team Meeting: Server Connection fix und kleinere Verbesserungen        |    3,5 h    |
 | **04.01.2024** |                             Server Lobby Features                             |    1,5 h    |
 | **04.01.2024** |                         Team Meeting: Lobby Features                          |     2 h     |
+| **05.01.2024** |                        Refactoring Code, Editing JSON                         |    0,5 h    |
+| **05.01.2024** |           Team Meeting: Aufgabenverteilung für die kommende Abgabe            |     1 h     |
