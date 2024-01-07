@@ -56,3 +56,7 @@
 | **28.12.2023** |                           Weiteres Refactoring                           | 3,5 Stunden  |
 | **30.12.2023** |            Darstellung der Spielernamen beim Spiel Countdown             | 2,0 Stunden  |
 | **03.01.2024** |                Besprechung aktueller Stand im Java Client                | 1,0 Stunden  |
+| **05.01.2024** |               Besprechung bzgl. der Abgabe vom Endprodukt                | 1,5 Stunden  |
+| **05.01.2024** |             Bearbeitung der dynamischen Leaderboard Tabelle              | 5,5 Stunden  |
+| **06.01.2024** |            Fertigstellung der dynamischen Leaderboard Tabelle            | 2,0 Stunden  |
+| **07.01.2024** |                       Besprechung aktueller Stand                        | 2,0 Stunden  |
