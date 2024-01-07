@@ -20,6 +20,7 @@
 | **22.12.2023** | Server Connection fix und kleinere Verbesserungen |    3,5 h     |
 | **04.01.2024** |                  Lobby Features                   |     2 h      |
 | **05.01.2024** |    Aufgabenverteilung für die kommende Abgabe     |     1 h      |
+| **07.01.2024** |           Leaderboard und Projektstand            |    1,5 h     |
 
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
@@ -269,3 +270,13 @@ Protokollanten: Lewin, Tobias
 1. Brainstorming für die Ideen der Spielevorstellung
 2. Anlegen eines Google-Docs zum Sammeln von Ideen und für gemeinsames Ausarbeiten
 3. Formulierungen von TO-Do's und Prioritäten bis zur Abgabe
+
+# Protokoll: Team Meeting 07.01.2024 12:00 Uhr
+
+Protokollant: Tobias
+
+* Teilnehmer: Kevin, Lewin, Timo, Tim, Tobias
+
+1. Überblick Projektstand 
+2. Leaderboard Bugfixes
+3. Genauerer Blick auf den Python Client im Vergleich zum Java Client

@@ -31,3 +31,4 @@
 | **04.01.2024** |                         Team Meeting: Lobby Features                          |     2 h     |
 | **05.01.2024** |                        Refactoring Code, Editing JSON                         |    0,5 h    |
 | **05.01.2024** |           Team Meeting: Aufgabenverteilung für die kommende Abgabe            |     1 h     |
+| **07.01.2024** |                  Team Meeting: Leaderboard und Projektstand                   |    1,5 h    |
