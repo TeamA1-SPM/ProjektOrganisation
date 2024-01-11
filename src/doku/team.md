@@ -23,7 +23,9 @@
 | **07.01.2024** |           Leaderboard und Projektstand            |    1,5 h     |
 | **10.01.2024** |      Abschließende arbeiten am Python Client      |    3,5 h     |
 
-# Protokoll: Team Meeting 20.10.2023 9 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 20.10.2023 9 Uhr
 
 Protokollant: Tobias Wegner
 
@@ -48,7 +50,7 @@ Protokollant: Tobias Wegner
 
 Meetings Ende: 10:15 Uhr
 
-# Protokoll zum Meeting vom 23.10.2023
+## Protokoll zum Meeting vom 23.10.2023 19:00 Uhr
 
 Protokollant: Kevin Zuber
 
@@ -71,7 +73,9 @@ Folgende Punkte wurden diskutiert:
 * Bis dahin Präsentationsfolien fertig haben
 * Die Zeit zum Präsentieren testen / abschätzen (individuelle Zeit ca. 12 Minuten)
 
-# Protokoll zum Meeting vom 25.10.2023
+<div style="page-break-after: always;"></div>
+
+## Protokoll zum Meeting vom 25.10.2023 14:00 Uhr
 
 Protokollant: Timo Haverich
 
@@ -83,7 +87,7 @@ Protokollant: Timo Haverich
 4. Präsentation jedes Kapitels
 5. Mergen der Präsentationen
 
-# Protokoll: Team Meeting 01.11.2023
+## Protokoll: Team Meeting 01.11.2023 14:00 Uhr
 
 Protokollant: Lewin Wanzek
 
@@ -99,7 +103,7 @@ Protokollant: Lewin Wanzek
 
 4. Team Server und Team Socket.io zusammengefasst
 
-# Protokoll: Team Meeting 08.11.2023 14:05 Uhr
+## Protokoll: Team Meeting 08.11.2023 14:00 Uhr
 
 Protokollant: Willi Schaefer
 
@@ -118,7 +122,9 @@ Protokollant: Willi Schaefer
 
 7. Weitere User Stories schreiben
 
-# Protokoll: Team Meeting 11.11.2023 12:00 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 11.11.2023 12:00 Uhr
 
 Protokollant: Tobias Wegner
 
@@ -139,7 +145,9 @@ Protokollant: Tobias Wegner
     - Server: verbindungsaufbau
     - client: simple GUI mit gerade Strecke
 
-# Protokoll: Team Meeting 19.11.2023 14:00 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 19.11.2023 14:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -166,7 +174,7 @@ Protokollant(en): Tobias, Lewin
       diese nachzulesen?
 9. Weiteres Vorgehen
 
-# Protokoll: Team Meeting 22.11.2023 14:00 Uhr
+## Protokoll: Team Meeting 22.11.2023 14:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -179,7 +187,9 @@ Protokollant(en): Tobias, Lewin
     * Game-Screen (Welche Infos sollen wo angezeigt werden, ESC Exit-Menu, End-Screen)
 2. Neue Issues aus der Zeichnung ableiten
 
-# Protokoll: Team Meeting 29.11.2023 15:00 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 29.11.2023 15:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -190,7 +200,7 @@ Protokollant(en): Tobias, Lewin
    * Debugging ⇒ Zeiten wurden an der falschen Stelle angezeigt, gar nicht angezeigt oder es wurden falsche Werte
      angezeigt (fehlerhafte if-Bedingung serverseitig)
 
-# Protokoll: Team Meeting 30.11.2023 12:00 Uhr
+## Protokoll: Team Meeting 30.11.2023 12:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -201,7 +211,7 @@ Protokollant(en): Tobias, Lewin
     * Debugging ⇒ Zeiten wurden an der falschen Stelle angezeigt, gar nicht angezeigt oder es wurden falsche Werte 
     angezeigt (fehlerhafte if-Bedingung serverseitig)
 
-# Protokoll: Team Meeting 06.12.2023 15:00 Uhr
+## Protokoll: Team Meeting 06.12.2023 15:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -214,7 +224,9 @@ Protokollant(en): Tobias, Lewin
      auf dem gegnerischen Bildschirm zu übergeben
    * Ermittlung welche 
 
-# Protokoll: Team Meeting 09.12.2023 15:00 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 09.12.2023 15:00 Uhr
 
 Protokollant(en): Tobias, Lewin
 
@@ -225,7 +237,7 @@ Protokollant(en): Tobias, Lewin
    * Erstellung von 10 Template Strecken, die beide Clients lokal speichern sollen
    * Server entscheidet durch Übergabe einer Zufallszahl, welche Template-Strecke vom Client geladen werden soll
 
-# Protokoll: Team Meeting 13.12.2023 14:00 Uhr
+## Protokoll: Team Meeting 13.12.2023 14:00 Uhr
 
 Protokollant(en): Tobias, Lewin, Willi Schäfer
 
@@ -239,7 +251,7 @@ Protokollant(en): Tobias, Lewin, Willi Schäfer
     * Priorisierung der Methoden zur Darstellung des Gegners auf dem eigenen Bildschirm
     * Client Implementierung NPC Autos
 
-# Protokoll: Team Meeting 22.12.2023 9:00 Uhr
+## Protokoll: Team Meeting 22.12.2023 9:00 Uhr
 
 Protokollanten: Lewin, Tobias
 
@@ -249,7 +261,9 @@ Protokollanten: Lewin, Tobias
 2. fix choose_track und game_rendered vom Server
 3. weiteres Vorgehen besprechen
 
-# Protokoll: Team Meeting 04.01.2024 12:00 Uhr
+<div style="page-break-after: always;"></div>
+
+## Protokoll: Team Meeting 04.01.2024 12:00 Uhr
 
 Protokollanten: Lewin, Tobias
 
@@ -261,7 +275,7 @@ Protokollanten: Lewin, Tobias
    * Funktion für Unique LobbyIDs erstellen
    * kleinere bugfixes
 
-# Protokoll: Team Meeting 05.01.2024 10:00 Uhr
+## Protokoll: Team Meeting 05.01.2024 10:00 Uhr
 
 Protokollanten: Lewin, Tobias
 
@@ -271,7 +285,7 @@ Protokollanten: Lewin, Tobias
 2. Anlegen eines Google-Docs zum Sammeln von Ideen und für gemeinsames Ausarbeiten
 3. Formulierungen von TO-Do's und Prioritäten bis zur Abgabe
 
-# Protokoll: Team Meeting 07.01.2024 12:00 Uhr
+## Protokoll: Team Meeting 07.01.2024 12:00 Uhr
 
 Protokollant: Tobias
 
@@ -281,7 +295,7 @@ Protokollant: Tobias
 2. Leaderboard Bugfixes
 3. Genauerer Blick auf den Python Client im Vergleich zum Java Client
 
-# Protokoll: Team Meeting 10.02.2024 14:30 Uhr
+## Protokoll: Team Meeting 10.02.2024 14:30 Uhr
 
 Protokollant: Tobias, Lewin
 
