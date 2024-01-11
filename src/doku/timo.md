@@ -41,7 +41,7 @@
 | **04.01.2024** |                         Team Meeting: Lobby Features                          | 2,0 Stunden |
 | **05.01.2024** |                         Zoom Meeting: Aktueller Stand                         | 1,0 Stunden |
 | **05.01.2024** |                     Team Meeting: Vorgehen bis zur Abgabe                     | 0,5 Stunden |
-| **06.01.2024** |                Vorbereitung und Ausarbeiten der Dokumentation                 |     3 Stunden      |
-| **07.01.2024** |                  Team Meeting: Leaderboard und Projektstand                   |    1,5 Stunden     |
-| **09.01.2024** |       Python Client aushilfe: überprüfung Serververbindung und weiteres       |     2 Stunden      |
-| **10.01.2024** |             Team Meeting: Abschließende arbeiten am Python Client             |    2,5 Stunden     |
+| **06.01.2024** |                Vorbereitung und Ausarbeiten der Dokumentation                 |  3 Stunden  |
+| **07.01.2024** |                  Team Meeting: Leaderboard und Projektstand                   | 1,5 Stunden |
+| **09.01.2024** |       Python Client aushilfe: überprüfung Serververbindung und weiteres       |  2 Stunden  |
+| **10.01.2024** |             Team Meeting: Abschließende arbeiten am Python Client             | 2,5 Stunden |
