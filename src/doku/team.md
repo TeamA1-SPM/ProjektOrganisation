@@ -21,7 +21,7 @@
 | **04.01.2024** |                  Lobby Features                   |     2 h      |
 | **05.01.2024** |    Aufgabenverteilung für die kommende Abgabe     |     1 h      |
 | **07.01.2024** |           Leaderboard und Projektstand            |    1,5 h     |
-
+| **10.01.2024** |      Abschließende arbeiten am Python Client      |    3,5 h     |
 
 # Protokoll: Team Meeting 20.10.2023 9 Uhr
 
@@ -31,7 +31,7 @@ Protokollant: Tobias Wegner
 
 1. besprechung vom Ablauf des Meetings
 
-2. kurze GitHub Strukur besprechung
+2. kurze GitHub-Struktur Besprechung
     - Branches für jeden
     - git clone des Repo
 
@@ -280,3 +280,15 @@ Protokollant: Tobias
 1. Überblick Projektstand 
 2. Leaderboard Bugfixes
 3. Genauerer Blick auf den Python Client im Vergleich zum Java Client
+
+# Protokoll: Team Meeting 10.02.2024 14:30 Uhr
+
+Protokollant: Tobias, Lewin
+
+* Teilnehmer: Tim, Ole, Lewin, Willi, Timo, Tobias
+
+Abschließende arbeiten am Python Client:
+1. Überprüfung Serververbindung
+2. Überprüfung Lobby
+3. Überprüfung Leaderboard
+4. Überprüfung Spieler darstellung

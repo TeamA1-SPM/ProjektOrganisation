@@ -1,4 +1,4 @@
-# Dokumentation: Lewin
+# Dokumentation: Lewin Wanzek 
 
 |     Datum      |                                   Tätigkeit                                   |    Dauer     |
 |:--------------:|:-----------------------------------------------------------------------------:|:------------:|
@@ -39,3 +39,6 @@
 | **05.01.2024** |                Refactoring Code, Editing JSON for last Feature                |    0,5 h     |
 | **05.01.2024** |           Team Meeting: Aufgabenverteilung für die kommende Abgabe            |     1 h      |
 | **06.01.2024** |                Vorbereitung und Ausarbeiten der Dokumentation                 |     3 h      |
+| **07.01.2024** |                  Team Meeting: Leaderboard und Projektstand                   |    1,5 h     |
+| **09.01.2024** |       Python Client aushilfe: überprüfung Serververbindung und weiteres       |     2 h      |
+| **10.01.2024** |             Team Meeting: Abschließende arbeiten am Python Client             |    3,5 h     |
